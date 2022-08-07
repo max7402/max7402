@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @max7402
+- 👋 Hi, I’m Innov
 - 👀 I’m interested in programming ,web development and machine learning not forgeting Arduino
 - 🌱 I’m currently learning kotlin
 - 💞️ I’m looking to collaborate on resporitories in machine learning
